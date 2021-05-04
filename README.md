@@ -15,7 +15,7 @@
 <p align="left">
   Libft is the first 42 project. This a C library with 34 functions.
   <br>
-  You can found an enhanced version of libft called best-libft here: <a href="https://github.com/LoisDuplain/best-libft">best-libft repository</a>
+  You can found an enhanced version of libft called best-libft here: <a href="https://github.com/LoisDuplain/best-libft">best-libft</a>
   <br>
   Created by Loïs Duplain. (42login: lduplain, 42mail: lduplain@student.42lyon.fr)
 </p>
