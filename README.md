@@ -18,8 +18,10 @@
   Created by Loïs Duplain. (42login: lduplain, 42mail: lduplain@student.42lyon.fr)
 </p>
 
+<h2 align="left">🖥️ 42</h2>
+
 <a href="https://github.com/LoisDuplain/libft/blob/main/subject/libft-subject.pdf">Subject</a>
 <p align="left">
   Mark:
-  <img alt="42-project-mark" src="https://badge42.herokuapp.com/api/project/lduplain/libft"/>
+  <img alt="42-project-mark" src="https://badge42.herokuapp.com/api/project/lduplain/Libft"/>
 </p>
